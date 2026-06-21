@@ -1,7 +1,7 @@
 # Large audio files
-*.flac
-*.wav
-*.mp3
+# *.flac
+# *.wav
+# *.mp3
 
 # Compiled/dist folder
 dist/
